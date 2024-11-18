@@ -28,8 +28,8 @@
 <h2>⚡️ &nbsp; Github Stats</h2>
 
 <a href="https://github.com/itsabolaz">
-  <img src="https://github-readme-stats.vercel.app/api?username=itsabolaz&show_icons=true&theme=tokyonight" height="225px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsabolaz" height="225px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=itsabolaz&show_icons=true&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsabolaz"/>
 </a>
 
 <h2>📞 &nbsp; Connect Me </h2>
